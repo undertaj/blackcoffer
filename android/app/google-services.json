@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559294784713",
+    "project_id": "flutter-video-app-9f161",
+    "storage_bucket": "flutter-video-app-9f161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559294784713:android:eeb1261f8b983c07ad5918",
+        "android_client_info": {
+          "package_name": "com.example.blackcoffer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATHdVUHrgM-g9RRtXGBruHj-gifGrz8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
